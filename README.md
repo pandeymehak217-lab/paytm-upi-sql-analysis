@@ -157,14 +157,6 @@ psql paytm_analysis -f queries/paytm_analysis.sql
 
 ---
 
-## 📝 Resume Bullet Points (Copy-Paste Ready)
-
-> - Designed and executed **SQL analysis on 5,000+ Paytm UPI transactions** (Jan 2023–Dec 2024) covering fraud detection, MAU tracking, and merchant performance
-> - Built **fraud detection queries** using statistical z-score analysis and transaction velocity monitoring with CTEs and Window Functions, flagging 237 suspicious transactions (4.74% fraud rate)
-> - Tracked **Monthly Active Users (MAU)** using DATE_TRUNC and COUNT DISTINCT; computed MoM growth with LAG() to surface a 20.49% peak in March 2023
-> - Segmented **80 merchants into revenue quartiles** using NTILE(4) and RANK(), revealing Insurance category contributes 35%+ of total GMV
-> - Calculated **running cumulative GMV** and 7-day rolling averages using SUM() OVER (ORDER BY date) for executive dashboard reporting
-> - Tiered **300 users by spending percentile** using PERCENT_RANK() to identify Platinum/Gold segments for targeted marketing campaigns
 
 ---
 
@@ -179,14 +171,4 @@ psql paytm_analysis -f queries/paytm_analysis.sql
 
 ---
 
-## 👤 About
-
-**[Your Name]** — Fresher Data Analyst  
-📧 your.email@gmail.com  
-🔗 LinkedIn: linkedin.com/in/yourprofile  
-💻 GitHub: github.com/yourusername
-
-*This project is part of a Data Analyst portfolio. Dataset is synthetically generated to simulate real Paytm UPI transaction patterns.*
-
----
 ⭐ *If this project helped you, please star the repo!*
