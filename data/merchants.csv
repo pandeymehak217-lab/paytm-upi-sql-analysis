@@ -1,0 +1,81 @@
+merchant_id,merchant_name,category,city,state,merchant_tier
+M001,IRCTC,Travel,Noida,Delhi,Silver
+M002,BigBasket,Grocery,Muzaffarpur,Bihar,Bronze
+M003,MedPlus,Healthcare,Noida,Delhi,Gold
+M004,Shell,Fuel,Mumbai,Maharashtra,Silver
+M005,Haldiram's,Food & Beverages,Amritsar,Punjab,Bronze
+M006,IRCTC,Travel,Faridabad,Haryana,Gold
+M007,BYJU'S,Education,Jaipur,Rajasthan,Silver
+M008,Flipkart,Shopping,Kanpur,Uttar Pradesh,Silver
+M009,Apollo Pharmacy,Healthcare,Bhopal,Madhya Pradesh,Bronze
+M010,Unacademy,Education,New Delhi,Delhi,Bronze
+M011,Myntra,Shopping,Gaya,Bihar,Bronze
+M012,Reliance Fresh,Grocery,Surat,Gujarat,Silver
+M013,Airtel,Recharge & Bills,Nizamabad,Telangana,Bronze
+M014,Domino's,Food & Beverages,Mysuru,Karnataka,Silver
+M015,IRCTC,Travel,Nagpur,Maharashtra,Bronze
+M016,DMart,Grocery,Howrah,West Bengal,Silver
+M017,BigBasket,Grocery,Rourkela,Odisha,Silver
+M018,LIC,Insurance,Howrah,West Bengal,Bronze
+M019,Nykaa,Shopping,Rourkela,Odisha,Bronze
+M020,HPCL,Fuel,Cuttack,Odisha,Bronze
+M021,PolicyBazaar,Insurance,Noida,Delhi,Bronze
+M022,Amazon,Shopping,Noida,Delhi,Silver
+M023,1mg,Healthcare,Hisar,Haryana,Silver
+M024,HPCL,Fuel,Gwalior,Madhya Pradesh,Silver
+M025,SonyLIV,Entertainment,Mumbai,Maharashtra,Silver
+M026,Spencer's,Grocery,Vadodara,Gujarat,Bronze
+M027,Apollo Pharmacy,Healthcare,Indore,Madhya Pradesh,Bronze
+M028,RedBus,Travel,Kolkata,West Bengal,Silver
+M029,Manipal Hospitals,Healthcare,Jaipur,Rajasthan,Bronze
+M030,DMart,Grocery,Gwalior,Madhya Pradesh,Bronze
+M031,Blinkit,Grocery,Mysuru,Karnataka,Silver
+M032,IndianOil,Fuel,Thiruvananthapuram,Kerala,Silver
+M033,Reliance Fresh,Grocery,Pune,Maharashtra,Silver
+M034,Flipkart,Shopping,Bengaluru,Karnataka,Gold
+M035,Uber,Travel,Agra,Uttar Pradesh,Silver
+M036,Cafe Coffee Day,Food & Beverages,Mysuru,Karnataka,Gold
+M037,PolicyBazaar,Insurance,Indore,Madhya Pradesh,Gold
+M038,Manipal Hospitals,Healthcare,Jaipur,Rajasthan,Bronze
+M039,Jio,Recharge & Bills,Amritsar,Punjab,Bronze
+M040,IndianOil,Fuel,Dwarka,Delhi,Silver
+M041,Reliance BP,Fuel,Bengaluru,Karnataka,Silver
+M042,Myntra,Shopping,Kolkata,West Bengal,Silver
+M043,Tata Play,Recharge & Bills,Kozhikode,Kerala,Silver
+M044,Jio,Recharge & Bills,Kolkata,West Bengal,Silver
+M045,PharmEasy,Healthcare,Vadodara,Gujarat,Bronze
+M046,SonyLIV,Entertainment,Howrah,West Bengal,Bronze
+M047,SBI Life,Insurance,Dwarka,Delhi,Bronze
+M048,Jio,Recharge & Bills,Howrah,West Bengal,Bronze
+M049,SonyLIV,Entertainment,Nizamabad,Telangana,Bronze
+M050,BSNL,Recharge & Bills,Surat,Gujarat,Bronze
+M051,Manipal Hospitals,Healthcare,Ahmedabad,Gujarat,Gold
+M052,upGrad,Education,Noida,Delhi,Gold
+M053,Ola,Travel,Kochi,Kerala,Bronze
+M054,Reliance Fresh,Grocery,Gaya,Bihar,Gold
+M055,Amazon,Shopping,Coimbatore,Tamil Nadu,Bronze
+M056,Manipal Hospitals,Healthcare,Mysuru,Karnataka,Silver
+M057,PharmEasy,Healthcare,Agra,Uttar Pradesh,Silver
+M058,PVR Cinemas,Entertainment,Kozhikode,Kerala,Bronze
+M059,DMart,Grocery,Bengaluru,Karnataka,Gold
+M060,PolicyBazaar,Insurance,Nagpur,Maharashtra,Bronze
+M061,BookMyShow,Entertainment,Indore,Madhya Pradesh,Gold
+M062,Nykaa,Shopping,Madurai,Tamil Nadu,Silver
+M063,SBI Life,Insurance,Coimbatore,Tamil Nadu,Silver
+M064,HDFC Life,Insurance,Kozhikode,Kerala,Silver
+M065,McDonald's,Food & Beverages,Kolkata,West Bengal,Silver
+M066,Blinkit,Grocery,Mangaluru,Karnataka,Silver
+M067,PVR Cinemas,Entertainment,Kolkata,West Bengal,Silver
+M068,Ola,Travel,Mysuru,Karnataka,Silver
+M069,Flipkart,Shopping,Nagpur,Maharashtra,Gold
+M070,Netflix,Entertainment,Gurugram,Haryana,Bronze
+M071,Adani Electricity,Recharge & Bills,Lucknow,Uttar Pradesh,Gold
+M072,Unacademy,Education,Jodhpur,Rajasthan,Bronze
+M073,Reliance BP,Fuel,Noida,Delhi,Silver
+M074,PolicyBazaar,Insurance,Bhubaneswar,Odisha,Silver
+M075,MedPlus,Healthcare,Nagpur,Maharashtra,Silver
+M076,Spencer's,Grocery,Chandigarh,Punjab,Gold
+M077,BookMyShow,Entertainment,Coimbatore,Tamil Nadu,Silver
+M078,RedBus,Travel,Agra,Uttar Pradesh,Silver
+M079,LIC,Insurance,Udaipur,Rajasthan,Silver
+M080,RedBus,Travel,Chandigarh,Punjab,Bronze
